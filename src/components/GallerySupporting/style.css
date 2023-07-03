@@ -1,0 +1,41 @@
+.gallery-supporting {
+  height: 432px;
+  position: relative;
+  width: 1728px;
+}
+
+.gallery-supporting .rectangle-2 {
+  height: 432px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 432px;
+}
+
+.gallery-supporting .rectangle-3 {
+  height: 432px;
+  left: 864px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 432px;
+}
+
+.gallery-supporting .rectangle-4 {
+  height: 432px;
+  left: 432px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 432px;
+}
+
+.gallery-supporting .rectangle-5 {
+  height: 432px;
+  left: 1296px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 432px;
+}

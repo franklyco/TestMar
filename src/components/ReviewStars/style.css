@@ -1,0 +1,59 @@
+.review-stars {
+  height: 32px;
+  position: relative;
+  width: 204px;
+}
+
+.review-stars .element-reviews {
+  color: #000000;
+  font-family: "Futura-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 32px;
+  left: 120px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 84px;
+}
+
+.review-stars .star-half {
+  height: 16px;
+  left: 87px;
+  position: absolute;
+  top: 7px;
+  width: 17px;
+}
+
+.review-stars .star-full {
+  height: 16px;
+  left: 65px;
+  position: absolute;
+  top: 7px;
+  width: 17px;
+}
+
+.review-stars .star-full-2 {
+  height: 16px;
+  left: 43px;
+  position: absolute;
+  top: 7px;
+  width: 17px;
+}
+
+.review-stars .star-full-3 {
+  height: 16px;
+  left: 21px;
+  position: absolute;
+  top: 7px;
+  width: 17px;
+}
+
+.review-stars .star-full-4 {
+  height: 16px;
+  left: -1px;
+  position: absolute;
+  top: 7px;
+  width: 17px;
+}

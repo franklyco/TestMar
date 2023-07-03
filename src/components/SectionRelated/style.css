@@ -1,0 +1,58 @@
+.section-related {
+  height: 864px;
+  width: 1728px;
+}
+
+.section-related .container-related {
+  height: 704px;
+  left: 165px;
+  position: relative;
+  top: 80px;
+  width: 1399px;
+}
+
+.section-related .cards-products {
+  height: 602px;
+  left: 0;
+  position: absolute;
+  top: 102px;
+  width: 1397px;
+}
+
+.section-related .card-product-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.section-related .design-component-instance-node {
+  left: 367px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.section-related .card-product-2 {
+  left: 734px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.section-related .card-product-3 {
+  left: 1101px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.section-related .similar-skincare {
+  color: #000000;
+  font-family: "Futura-Medium", Helvetica;
+  font-size: 36px;
+  font-weight: 500;
+  left: 536px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 326px;
+}

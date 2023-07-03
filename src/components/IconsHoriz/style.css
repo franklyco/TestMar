@@ -1,0 +1,77 @@
+.icons-horiz {
+  align-items: center;
+  display: flex;
+  gap: 1px;
+  justify-content: center;
+  position: relative;
+  width: 384px;
+}
+
+.icons-horiz .product-icons-6 {
+  height: 106px;
+  min-width: 120px;
+  position: relative;
+}
+
+.icons-horiz .text-wrapper-3 {
+  color: #000000;
+  font-family: "Futura-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 67px;
+  width: 120px;
+}
+
+.icons-horiz .group-4 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/95cb29d44d2cff744788afc5ca522d06/img/rectangle-8-17.svg);
+  background-size: 100% 100%;
+  height: 60px;
+  left: 30px;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.icons-horiz .img-4 {
+  height: 60px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.icons-horiz .overlap-group-wrapper {
+  height: 65px;
+  left: 30px;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.icons-horiz .overlap-group-4 {
+  height: 65px;
+  position: relative;
+}
+
+.icons-horiz .rectangle-8 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.icons-horiz .half-heart-2 {
+  height: 60px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 60px;
+}

@@ -1,0 +1,72 @@
+.card-product {
+  height: 602px;
+  position: relative;
+  width: 296px;
+}
+
+.card-product .btn-cart {
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 548px;
+  width: 298px;
+}
+
+.card-product .overlap-group {
+  border: 2px solid;
+  border-color: #000000;
+  height: 54px;
+  position: relative;
+  width: 296px;
+}
+
+.card-product .add-to-bag {
+  color: #000000;
+  font-family: "Futura-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: -2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 296px;
+}
+
+.card-product .rectangle {
+  height: 412px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 296px;
+}
+
+.card-product .element {
+  color: #000000;
+  font-family: "Futura-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 474px;
+  width: 296px;
+}
+
+.card-product .flower-acid-algae-s {
+  color: #000000;
+  font-family: "Futura-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 430px;
+  width: 296px;
+}
